@@ -1,0 +1,199 @@
+*{
+    border:0;
+    padding:0;
+}
+body{
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    background-color:white;
+}
+.primus{
+    display:flex;
+    background-image:url('images/bg-hero-desktop.svg');
+    width:auto;
+    padding-top:30px;
+    margin-left:4px;
+}
+
+.primus img{
+    margin-left:80px;
+    height:40px;
+    width:180px;
+
+}
+
+.primus button{
+    margin:auto;
+    margin-left:740px;
+    border-radius:20px;
+    width:200px;
+    height:35px;
+    background-color:white;
+    color:black;
+    box-shadow: 2px 2px 10px 2px grey;
+}
+
+.first{
+    display:flex;
+    padding:10px;
+    width:auto;
+    margin:auto;
+    height:50%;
+    border:none;
+    margin-top:20px;
+
+}
+.first-a{
+    width:40%;
+    padding:70px;
+    height:50vh;
+
+}
+.first-a p{
+    margin-top:30px;
+}
+.first-a button{
+    border:none;
+    padding:10px;
+    border-radius:10px;
+    background-color: rgb(190, 45, 81);
+    color:white;
+}
+.first-b{
+    width:60%;
+
+}
+img{
+    margin-top:20px;
+    width:100%;
+}
+
+
+.second{
+    display:flex;
+    padding:10px;
+    width:80%;
+    margin:auto;
+    height:50%;
+    border:none;
+    margin-top:20px;
+    box-shadow: 2px 2px 10px 2px grey;
+    border-radius: 10px;
+}
+.second-a{
+    width:40%;
+    padding:80px;
+    height:50vh;
+    margin-top:70px;
+}
+.second-b{
+    padding:80px;
+}
+
+.third{
+    display:flex;
+    padding:10px;
+    width:80%;
+    margin:auto;
+    height:50%;
+    border:none;
+    margin-top:100px;
+    box-shadow: 2px 2px 10px 2px grey;
+    border-radius: 10px;
+    
+}
+.third-a{
+    padding:80px;
+}
+.third-b{
+    width:40%;
+    padding:70px;
+    height:50vh;
+    margin-top:70px;
+
+}
+
+.fourth{
+    display:flex;
+    padding:10px;
+    width:80%;
+    margin:auto;
+    height:50%;
+    border:none;
+    margin-top:100px;
+    box-shadow: 2px 2px 10px 2px grey;
+    border-radius: 10px;
+
+}
+.fourth-a{
+    width:40%;
+    padding:70px;
+    height:50vh;
+    margin-top:70px;
+}
+.fourth-b{
+    padding:80px;
+}
+.bottom{
+    margin-left:400px;
+    width:600px;
+    text-align: center;
+    height:200px;
+    margin-top:100px;
+    background-color:white;
+    z-index:1;
+    position:relative;
+    border-radius:20px;
+    box-shadow: 2px 2px 10px 2px grey;
+}
+.bottom h1{
+    padding:30px;
+}
+.bottom button{
+    width:200px;
+    height:35px;
+    background-color:rgb(223, 61, 61);
+    color:black;
+    box-shadow:0px 1px 1px 1px;
+    font-size:12px;
+    border-radius:20px;
+    margin-top:5px;
+}
+footer{
+    
+    z-index: 2;
+    border:1px solid black;
+    height:400px;
+    margin-top:-70px;
+    display:flex;
+    width: auto;
+    color:white;
+    background-color: black;
+}
+footer .monday{
+    margin-left:5%;
+    margin-top:10%;
+
+    
+    
+}
+footer .tuesday{
+    margin-top:10%;
+    margin-left:20%;
+}
+footer .wednesday{
+    margin-top:10%;
+    margin-left:20%;
+}
+footer .icons{
+    margin-top:12%;
+    display: flex;
+    margin-left:10%;
+    
+}
+.two{
+    margin-left:3px;
+}
+.three{
+    margin-left: 3px;
+}
